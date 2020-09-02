@@ -1,5 +1,5 @@
 # Statistical-Inference
-This is a statistical analysis assignment of the King County house sales. 
+This is a CS50 statistical analysis assignment of the King County house sales. 
 It includes:
 - descriptive statistics, written from scratch 
 - data visualizations
